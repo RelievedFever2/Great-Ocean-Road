@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Great Ocean Road Travel Guide</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 0; padding: 0; line-height: 1.6; background: #f4f4f4; }
+    header { background: #2c3e50; color: #fff; padding: 1rem 2rem; text-align: center; }
+    nav { background: #34495e; text-align: center; padding: 0.5rem; }
+    nav a { color: #fff; text-decoration: none; margin: 0 10px; font-weight: bold; }
+    section { padding: 2rem; background: #fff; margin: 1rem auto; max-width: 900px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); }
+    h2 { color: #2c3e50; }
+    img { width: 100%; height: auto; border-radius: 8px; margin-top: 1rem; }
+    .day-title { color: #2980b9; margin-top: 1rem; }
+    footer { text-align: center; padding: 2rem; font-size: 0.9em; color: #777; }
+    iframe { width: 100%; height: 400px; border: none; border-radius: 8px; margin-top: 1rem; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Great Ocean Road Travel Guide</h1>
+    <p>13-Day Road Trip from Werribee to Adelaide</p>
+  </header>
+  <nav>
+    <a href="#day1">Day 1</a>
+    <a href="#day2">Day 2</a>
+    <a href="#day3">Day 3</a>
+    <a href="#day4">Day 4</a>
+    <a href="#day5">Day 5</a>
+    <a href="#day6">Day 6</a>
+    <a href="#day7">Day 7</a>
+    <a href="#day8">Day 8</a>
+    <a href="#day9">Day 9</a>
+    <a href="#day10">Day 10</a>
+    <a href="#day11">Day 11</a>
+    <a href="#day12">Day 12</a>
+    <a href="#day13">Day 13</a>
+  </nav>
+
+  <section>
+    <h2>Map Overview</h2>
+    <iframe src="https://www.google.com/maps/d/embed?mid=1SlxGLHEd_UX32g4OxtrmHDTG8vEc_vB0" allowfullscreen></iframe>
+  </section>
+
+  <!-- Days 1–4 already added -->
+  <!-- Days 5–13 now added below -->
+
+  <section id="day5">
+    <h2 class="day-title">Day 5: Lorne to Apollo Bay</h2>
+    <p><strong>Distance:</strong> 70 km | <strong>Fuel:</strong> $15</p>
+    <ul>
+      <li>Great Ocean Road – Free</li>
+      <li>Cape Otway Lighthouse – $20/adult</li>
+      <li>Barham Paradise Reserve – Free</li>
+    </ul>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/23/Great_Ocean_Road_-_Cape_Otway_Lighthouse.jpg" alt="Cape Otway Lighthouse">
+  </section>
+
+  <section id="day6">
+    <h2 class="day-title">Day 6: Apollo Bay to The Twelve Apostles</h2>
+    <p><strong>Distance:</strong> 60 km | <strong>Fuel:</strong> $12</p>
+    <ul>
+      <li>The Twelve Apostles – Free</li>
+      <li>Loch Ard Gorge – Free</li>
+      <li>The Grotto – Free</li>
+    </ul>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/Loch_Ard_Gorge_Great_Ocean_Road_Victoria_Australia.jpg" alt="Loch Ard Gorge">
+  </section>
+
+  <section id="day7">
+    <h2 class="day-title">Day 7: The Twelve Apostles to Timboon</h2>
+    <p><strong>Distance:</strong> 20 km | <strong>Fuel:</strong> $5</p>
+    <ul>
+      <li>Timboon Railway Shed Distillery – $15–30</li>
+      <li>Timboon Ice Creamery – $5–10</li>
+      <li>Port Campbell National Park – Free</li>
+    </ul>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Port_Campbell_National_Park%2C_2005.jpg" alt="Port Campbell National Park">
+  </section>
+
+  <section id="day8">
+    <h2 class="day-title">Day 8: Timboon to London Bridge</h2>
+    <p><strong>Distance:</strong> 40 km | <strong>Fuel:</strong> $8</p>
+    <ul>
+      <li>London Bridge – Free</li>
+      <li>The Arch – Free</li>
+      <li>Bay of Islands Coastal Park – Free</li>
+    </ul>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/London_Arch_Great_Ocean_Road.jpg" alt="London Bridge / Arch">
+  </section>
+
+  <section id="day9">
+    <h2 class="day-title">Day 9: London Bridge to Coorong National Park</h2>
+    <p><strong>Distance:</strong> 350 km | <strong>Fuel:</strong> $60–75</p>
+    <ul>
+      <li>Coorong National Park – Free entry, tours $35+</li>
+      <li>Meningie Lookout – Free</li>
+      <li>Coorong Boat Tour – $35–60</li>
+    </ul>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/f4/Coorong.jpg" alt="Coorong National Park">
+  </section>
+
+  <section id="day10">
+    <h2 class="day-title">Day 10: Coorong to Adelaide</h2>
+    <p><strong>Distance:</strong> 150 km | <strong>Fuel:</strong> $25–30</p>
+    <ul>
+      <li>Murray River Cruise – $40–50</li>
+      <li>Adelaide Central Market – Free Entry</li>
+      <li>Rundle Mall – Free</li>
+    </ul>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/Adelaide_Rundle_Mall_2020.jpg" alt="Rundle Mall">
+  </section>
+
+  <section id="day11">
+    <h2 class="day-title">Day 11: Mount Gambier to Robe</h2>
+    <p><strong>Distance:</strong> 130 km | <strong>Fuel:</strong> $20</p>
+    <ul>
+      <li>Umpherston Sinkhole – Free</li>
+      <li>Tantanoola Caves – $15/adult</li>
+      <li>Cape Dombey Obelisk – Free</li>
+    </ul>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Umpherston_Sinkhole%2C_Mount_Gambier%2C_South_Australia.jpg" alt="Umpherston Sinkhole">
+  </section>
+
+  <section id="day12">
+    <h2 class="day-title">Day 12: Robe to Coorong National Park</h2>
+    <p><strong>Distance:</strong> 140 km | <strong>Fuel:</strong> $20</p>
+    <ul>
+      <li>Beachport – Bowman Scenic Drive – Free</li>
+      <li>Coorong National Park – Free</li>
+      <li>Meningie Lookout – Free</li>
+    </ul>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Bowman_Scenic_Drive.jpg" alt="Bowman Scenic Drive">
+  </section>
+
+  <section id="day13">
+    <h2 class="day-title">Day 13: Exploring Adelaide</h2>
+    <p><strong>Distance:</strong> Local | <strong>Fuel:</strong> $15–20</p>
+    <ul>
+      <li>Adelaide Central Market – Free Entry</li>
+      <li>Glenelg Beach & Jetty – Free</li>
+      <li>Adelaide Botanic Gardens – Free</li>
+    </ul>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/14/Adelaide_Botanic_Garden.jpg" alt="Adelaide Botanic Gardens">
+  </section>
+
+  <footer>
+    <p>© 2025 Great Ocean Road Travel Guide | Designed for personal travel inspiration</p>
+  </footer>
+</body>
+</html>
